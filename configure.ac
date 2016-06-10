@@ -1,8 +1,5 @@
-#                                               -*- Autoconf -*-
-# Process this file with autoconf to produce a configure script.
-
 AC_PREREQ([2.69])
-AC_INIT([cserver], [0.0.1], [https://github.com/johnnyrichard/cserver/issues/new])
+AC_INIT([cserver], [0.0.1], [https://github.com/johnnyrichard/chttp/issues/new])
 
 AM_INIT_AUTOMAKE
 
